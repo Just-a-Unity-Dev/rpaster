@@ -1,4 +1,4 @@
-# rpaster-vscode README
+# rpaster-vscode
 
 Integrating RPaste with VSCode (hosted under the MIT license!)
 
