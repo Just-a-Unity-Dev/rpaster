@@ -2,7 +2,7 @@
   "name": "rpaster-vscode",
   "displayName": "rpaster-vscode",
   "description": "Integrate the power of RPaste with VSCode!",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.63.0"
   },
