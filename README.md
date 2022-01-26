@@ -15,6 +15,7 @@ Run `npm install`
 
 - More translations
 - More types of uploading (eg. mass upload)
+- VSCode Store
 
 ## Release Notes
 
