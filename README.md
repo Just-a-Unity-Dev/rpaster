@@ -1,13 +1,11 @@
 # rpaster-vscode README
 
-Integrating RPaste with VSCode
+Integrating RPaste with VSCode (hosted under the MIT license!)
 
 ## Features
 
 - Basic base64 file encryption
 - Submission to RPaste website
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
 
